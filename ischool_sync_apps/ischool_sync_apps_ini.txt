@@ -1,0 +1,6 @@
+index.php
+ISchool
+ischool_sync_apps
+SIM
+contr
+ischool_sync_apps
